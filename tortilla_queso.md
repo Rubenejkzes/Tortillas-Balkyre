@@ -1,8 +1,6 @@
-Tortilla de patata
-******************
-
 Patatas
 Huevos
+Queso
 
 Mezclas todo
 Fries
