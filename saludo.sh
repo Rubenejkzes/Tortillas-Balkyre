@@ -1,4 +1,4 @@
 echo "hola Acciona"
 echo "saludos desde clase"
-sleep 5
-exit 1
+echo "Me abuuuuuurro"
+exit 0
